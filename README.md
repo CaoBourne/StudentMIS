@@ -1,2 +1,4 @@
 # StudentMIS
-a project to manage students' information 
+a project to manage students' information
+maven
+python3.6
